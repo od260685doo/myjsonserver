@@ -14,31 +14,31 @@
     },
     {
       "id": 3,
-      "name": "Alice & Olivia"
+      "name": "Alice & Olivia",
       "price": 500,
       "isInStock":true
     },
     {
       "id": 4,
-      "name": "Diesel"
+      "name": "Diesel",
       "price": 600,
       "isInStock":false
     },
     {
       "id": 5,
-      "name": "Roberto Cavalli"
+      "name": "Roberto Cavalli",
       "price": 700,
       "isInStock":true
     },
     {
       "id": 6,
-      "name": "Saint Laurent"
+      "name": "Saint Laurent",
       "price": 1000,
       "isInStock":true
     }
    {
       "id": 7,
-      "name": "Versace"
+      "name": "Versace",
       "price": 1500,
       "isInStock":false
     }
