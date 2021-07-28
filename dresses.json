@@ -1,38 +1,44 @@
 {
   {
       "id": 1,
-      "name": "",
+      "name": "Adidas by Stella McCartney",
       "price": 300,
       "isInStock":true
     },
     {
       "id": 2,
-      "name": "",
+      "name": "Zimmerman",
       "price": 400,
       "isInStock":true
     },
     {
       "id": 3,
-      "name": ""
+      "name": "Alice & Olivia"
       "price": 500,
       "isInStock":true
     },
     {
       "id": 4,
-      "name": ""
+      "name": "Diesel"
       "price": 600,
       "isInStock":false
     },
     {
       "id": 5,
-      "name": ""
+      "name": "Roberto Cavalli"
       "price": 700,
       "isInStock":true
     },
     {
       "id": 6,
-      "name": ""
+      "name": "Saint Laurent"
       "price": 1000,
       "isInStock":true
+    }
+   {
+      "id": 7,
+      "name": "Versace"
+      "price": 1500,
+      "isInStock":false
     }
 }
