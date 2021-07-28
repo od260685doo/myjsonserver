@@ -1,0 +1,38 @@
+{
+  {
+      "id": 1,
+      "name": "",
+      "price": 300,
+      "isInStock":true
+    },
+    {
+      "id": 2,
+      "name": "",
+      "price": 400,
+      "isInStock":true
+    },
+    {
+      "id": 3,
+      "name": ""
+      "price": 500,
+      "isInStock":true
+    },
+    {
+      "id": 4,
+      "name": ""
+      "price": 600,
+      "isInStock":false
+    },
+    {
+      "id": 5,
+      "name": ""
+      "price": 700,
+      "isInStock":true
+    },
+    {
+      "id": 6,
+      "name": ""
+      "price": 1000,
+      "isInStock":true
+    }
+}
